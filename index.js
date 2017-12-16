@@ -17,3 +17,6 @@ function nameToAttributes(names) {
   // [{firstName: "Bobby", lastName: ""}]
 }
 
+function attributesToPhrase(drivers, hometown){
+  return drivers.map()
+}
